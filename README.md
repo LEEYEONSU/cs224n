@@ -1,5 +1,5 @@
 # cs224n
-Standford cs224n study
+## Standford cs224n study
 - [Lecture 1 – Introduction and Word Vectors ][1]
 - [Lecture 2 – Word Vectors and Word Senses][2]
 - [Lecture 3 – Neural Networks][3] 

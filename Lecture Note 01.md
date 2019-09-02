@@ -14,12 +14,12 @@
 	> How do we represent the meaning of a word?
 	- denotational semantics
 		- signifier(symbol) \<-\> signified(idea or things)
-			- ￼file:///.file/id=6571367.6755867
+			![]()file:///.file/id=6571367.6755867
 	> How do we have usable meaning in a computer?
 	- Computer는 의미를 인식하는 방법 중 하나로 WordNet을 사용한다.
 		- Wordnet = [https://ko.wikipedia.org/wiki/%EC%9B%8C%EB%93%9C%EB%84%B7][1] 영어의 의미 어휘목록이다.
 			- ‘sysnet’이라는 유의어 집단으로 분류하여 간략하고 일반적인 정의를 제공하고, 어휘목록 사이의 다양한 의미 관계를 기록한다. 
-				￼file:///.file/id=6571367.6756133
+				 ![][image-2]file:///.file/id=6571367.6756133
 	- Problems with resources like WordNet
 		- Wordnet은 문제점이 있다.
 			- 어감이나 숨겨진 의미 인식이 어렵다.
@@ -42,16 +42,19 @@
 			- Word vectors
 				- word vectors = Word Embeddings or word representation -\> They are distributed representation.
 			- Word meaning as a neural word vector - visualization
-			- file:///.file/id=6571367.6756508
-
+				![][image-3]file:///.file/id=6571367.6756508
 3. Wordevec : Overview
 	> CBOW 방식
 	- 주변단어로 중심단어를 예측하는 방식 
 	> Skip - Gram 방식 
 	- 중심단어로 주변단어를 예측하는 방식 
 		- CBOW보다 학습을 개선 할 수 있는 횟수가 많기 때문에 성능이 좋다고 알려졌다. 
-[	\> Word2vec을 이해하기 위한 ratsgo’s blog ][4]
+
+	> [ Word2vec을 이해하기 위한 ratsgo’s blog ][4]
 
 [1]:	https://ko.wikipedia.org/wiki/%EC%9B%8C%EB%93%9C%EB%84%B7
 [3]:	]
 [4]:	https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/
+
+[image-2]:	file:///Users/yeonsulee/Desktop/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202019-09-03%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.29.48.png
+[image-3]:	%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202019-09-03%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.40.23

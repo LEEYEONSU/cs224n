@@ -4,13 +4,13 @@
 - Word2Vec 
 - Gensim
 
-1. Course
+1. **Course
 	> In cs224n we can learn 
 	- attention과 같은 최근 deep learning 기법들을 이해할 수 있다.
 		- 사람의 언어가 왜 이해하기 어려운지 알고 어떻게 생산하고 이해해야할지 알 수 있다.
 		- PyTorch를 이용하여 자연어처리의 여러가지 문제들을 해결할 능력을 기를 수 있다.
 
-2. Human language and word meaning
+2. **Human language and word meaning
 	> How do we represent the meaning of a word?
 	- denotational semantics
 		- signifier(symbol) \<-\> signified(idea or things)
@@ -43,7 +43,7 @@
 				- word vectors = Word Embeddings or word representation -\> They are distributed representation.
 			- Word meaning as a neural word vector - visualization
 				![][image-3]
-3. Wordevec : Overview
+3. **Wordevec : Overview
 	> CBOW 방식
 	- 주변단어로 중심단어를 예측하는 방식 
 	> Skip - Gram 방식 

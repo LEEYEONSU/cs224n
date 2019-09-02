@@ -14,12 +14,12 @@
 > How do we represent the meaning of a word?
 - denotational semantics
 	- signifier(symbol) \<-\> signified(idea or things)
-		![][image-1]
+		'![][image-1]’
 	> How do we have usable meaning in a computer?
 	- Computer는 의미를 인식하는 방법 중 하나로 WordNet을 사용한다.
 		- Wordnet = [https://ko.wikipedia.org/wiki/%EC%9B%8C%EB%93%9C%EB%84%B7][1] 영어의 의미 어휘목록이다.
 			- ‘sysnet’이라는 유의어 집단으로 분류하여 간략하고 일반적인 정의를 제공하고, 어휘목록 사이의 다양한 의미 관계를 기록한다. 
-				 ![][image-2]
+				‘ ![][image-2]’
 	- Problems with resources like WordNet
 		- Wordnet은 문제점이 있다.
 			- 어감이나 숨겨진 의미 인식이 어렵다.
@@ -42,7 +42,7 @@
 			- Word vectors
 				- word vectors = Word Embeddings or word representation -\> They are distributed representation.
 			- Word meaning as a neural word vector - visualization
-				![][image-3]
+				‘![][image-3]’
 **3. Wordevec : Overview**
 > CBOW 방식
 - 주변단어로 중심단어를 예측하는 방식 

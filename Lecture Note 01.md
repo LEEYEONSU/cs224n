@@ -19,7 +19,7 @@
 	- Computer는 의미를 인식하는 방법 중 하나로 WordNet을 사용한다.
 		- Wordnet = [https://ko.wikipedia.org/wiki/%EC%9B%8C%EB%93%9C%EB%84%B7][1] 영어의 의미 어휘목록이다.
 			- ‘sysnet’이라는 유의어 집단으로 분류하여 간략하고 일반적인 정의를 제공하고, 어휘목록 사이의 다양한 의미 관계를 기록한다. 
-				 ![][image-2]
+				- ![][image-2]
 	- Problems with resources like WordNet
 		- Wordnet은 문제점이 있다.
 			- 어감이나 숨겨진 의미 인식이 어렵다.

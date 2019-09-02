@@ -14,7 +14,7 @@
 	> How do we represent the meaning of a word?
 	- denotational semantics
 		- signifier(symbol) \<-\> signified(idea or things)
-			![]()
+			![][image-1]
 	> How do we have usable meaning in a computer?
 	- Computer는 의미를 인식하는 방법 중 하나로 WordNet을 사용한다.
 		- Wordnet = [https://ko.wikipedia.org/wiki/%EC%9B%8C%EB%93%9C%EB%84%B7][1] 영어의 의미 어휘목록이다.
@@ -56,5 +56,6 @@
 [3]:	]
 [4]:	https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/30/word2vec/
 
+[image-1]:	file:///Users/yeonsulee/Desktop/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202019-09-03%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.26.59.png
 [image-2]:	file:///Users/yeonsulee/Desktop/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202019-09-03%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.29.48.png
-[image-3]:	%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202019-09-03%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.40.23
+[image-3]:	file:///Users/yeonsulee/Desktop/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202019-09-03%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.40.23.png

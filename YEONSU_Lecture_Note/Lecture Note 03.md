@@ -12,4 +12,5 @@
 > Course information update
 
 **2. Classification setup and notation**
- <img src="/Users/yeonsulee/Library/Application Support/typora-user-images/image-20190919141401656.png" alt="image-20190919141401656"  />
+
+ Sssssssssss

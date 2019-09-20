@@ -93,3 +93,5 @@
 ![image-20190919145715704](/Users/yeonsulee/Documents/image-20190919145715704.png)
 
 - $x_w$ 에는 5d만큼의 vector가 포함되어있다. 
+- window사이즈 벡터 내의 center인 paris가 장소인지 아닌지 classification
+- 

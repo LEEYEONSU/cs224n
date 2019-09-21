@@ -92,6 +92,25 @@
 
 ![image-20190919145715704](/Users/yeonsulee/Documents/image-20190919145715704.png)
 
+- Idea : " Why didn't we make a big vector of a word window? "
 - $x_w$ 에는 5d만큼의 vector가 포함되어있다. 
 - window사이즈 벡터 내의 center인 paris가 장소인지 아닌지 classification
+- $s$ = paris , $s_c$ 는  score corrupt 즉, paris가 아닌 나머지 네개의 단어들의 score 
+
+
+
+> The max-margin loss
+
+![image-20190921172926055](/Users/yeonsulee/Documents/image-20190921172926055.png)
+
+- $s$ 는 high score
+
+- $s_c$ 는 corrupt할 것 근데 저 window 자체를 s 와 s_c로 두는건가?
+
+- 일단 저 score(x)를 어떻게 구하는거징 
+
+- 일단 차이 1까지 즉, 일정한 변량 까지의 loss J는 괜찮다는의미,,,?
+
 - 
+
+  
